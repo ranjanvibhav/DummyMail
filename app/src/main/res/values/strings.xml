@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDummyMail</string>
+    <string name="recipient">Recipient</string>
+    <string name="subject">Subject</string>
+    <string name="str_msg">Message</string>
+    <string name="str_send">Send</string>
+</resources>
